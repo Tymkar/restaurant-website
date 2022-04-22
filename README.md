@@ -1,6 +1,6 @@
 Responsive, React Restaurant Website with CSS styling
 
-Deployed version:
+Deployed on Vercel:
 
 https://restaurant-website-ten.vercel.app/
 
