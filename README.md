@@ -11,3 +11,5 @@ React
 React-icons
 
 CSS
+
+Prettier
